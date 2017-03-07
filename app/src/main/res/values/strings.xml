@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Contactos</string>
+
+    <string name="btn_nuevo">Agregar Contacto</string>
+
+    <string name="btn_guardar">Agregar</string>
+    <string name="btn_cancelar">Cancelar</string>
+
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_numero">Numero</string>
+    <string name="hint_email">E-mail</string>
+
+    <string name="btn_fin"></string>
+
+    <string name="btn_llama"></string>
+</resources>
